@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://nmlc-campaign.net/</homePageLink>
+		<homePageLink>https://dcristinacce.github.io/nmlc-campaign/</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://nmlc-campaign.net/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://nmlc-campaign.net/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://nmlc-campaign.net/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://nmlc-campaign.net/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://nmlc-campaign.net/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://dcristinacce.github.io/nmlc-campaign/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://dcristinacce.github.io/nmlc-campaign/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://dcristinacce.github.io/nmlc-campaign/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://dcristinacce.github.io/nmlc-campaign/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://dcristinacce.github.io/nmlc-campaign/wp-json/" />
 			</apis>
 	</service>
 </rsd>
